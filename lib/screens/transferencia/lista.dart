@@ -7,6 +7,7 @@ import 'package:provider/provider.dart';
 const _tituloAppBar = 'Transferências';
 
 
+
 class ListaTransferencias extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
